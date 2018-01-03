@@ -1,4 +1,4 @@
-Vishnu Kiran Reddy
+Vishnu
 Pune
 2204
 Jenkins
